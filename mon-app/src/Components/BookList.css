@@ -1,0 +1,24 @@
+/* src/BookList.css */
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+  }
+  
+  .book-item {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .book-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+
+  h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
