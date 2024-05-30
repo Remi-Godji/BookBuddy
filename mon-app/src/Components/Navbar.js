@@ -7,7 +7,7 @@ const Navbar = () => {
       <a href=''>
       <h1>Bibliothèque</h1>
       </a>
-      <a href="#">Ma Collection</a>
+        <a href="Macollection">Ma Collection</a>
         <a href="#">Mon Profil</a>
       <div className="nav-links">
         <div className="search-container">
